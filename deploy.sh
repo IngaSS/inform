@@ -21,6 +21,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/IngaSS/information-security.git master:gh-pages
+git push -f https://github.com/IngaSS/inform.git master:gh-pages
 # git push -f origin master
 cd -
